@@ -1,0 +1,2 @@
+# winget
+WinGet mainifests
